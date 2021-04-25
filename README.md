@@ -7,7 +7,7 @@ The instructions how to run the progam are within the notebook and includes a se
 The main objective of this repository is that people should test **GraphRoots** as much as possible. Many tests have been done but it is still possible
 that the program contains errors and such errors must be caught. Please report any errors or suspect behaviour under issues.
 
-The program **Isospectral.nb** has a set of commands to generate graphs that are isospectral but not isomorphic. Included in isospectral_spectra.nb
+The program **Isospectral.nb** has a set of commands to generate graphs that are isospectral but not isomorphic. Included in **Isospectral.nb**
 are a large and growing set of isospectral pairs that are not isomporphic. In order for **Isospectral.nb** to work **GraphRoots.nb** must be run first. 
 
 If you find these programs useful please cite this repository as:
