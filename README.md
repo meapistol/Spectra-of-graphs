@@ -21,7 +21,7 @@ If you find these programs useful please cite this repository as:
 }
 ```
 
-and/or the associated paper: *Generating isospectral but not isomorphic quantum graphs* by Mats-Erik Pistol, arXiv.
+and/or the associated paper: *Generating isospectral but not isomorphic quantum graphs* by Mats-Erik Pistol, arXiv:submit/3716713.
 
 # Licensing
 
