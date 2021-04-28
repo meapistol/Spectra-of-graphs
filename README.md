@@ -8,7 +8,7 @@ The main objective of this repository is that people should test **GraphRoots** 
 that the program contains errors and such errors must be caught. Please report any errors or suspect behaviour under issues.
 
 The program **Isospectral.nb** has a set of commands to generate graphs that are isospectral but not isomorphic. Included in **Isospectral.nb**
-are a large and growing set of isospectral pairs that are not isomporphic. In order for **Isospectral.nb** to work **GraphRoots.nb** must be run first. 
+are a large and growing set of isospectral pairs that are not isomporphic. In order for **Isospectral.nb** to work **GraphRoots.nb** must be run first.
 
 If you find these programs useful please cite this repository as:
 
@@ -21,8 +21,18 @@ If you find these programs useful please cite this repository as:
 }
 ```
 
-and/or the associated paper: *Generating isospectral but not isomorphic quantum graphs* by Mats-Erik Pistol, arXiv:submit/3716713.
+and/or the associated paper: *Generating isospectral but not isomorphic quantum graphs* by Mats-Erik Pistol: https://arxiv.org/abs/2104.12885.
 
+```
+@misc{pistol2021generating,
+      title={Generating isospectral but not isomorphic quantum graphs},
+      author={Mats-Erik Pistol},
+      year={2021},
+      eprint={2104.12885},
+      archivePrefix={arXiv},
+      primaryClass={math.SP}
+}
+```
 # Licensing
 
 **GraphRoots.nb** and **Isospectral.nb** are released under MIT license.
