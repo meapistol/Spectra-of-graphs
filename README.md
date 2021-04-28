@@ -38,6 +38,8 @@ The abstract says more than 70 isospectral sets, whereas the text says more than
 
 The Acknowledgement: "graphs with know" -> "graphs with known"
 
+The abstract on arXiv does not show the link to GitHub very nicely. The abstract in the pdf does it correctly though.
+
 This Errata will be updated as soon as we discover more problems.
 
 # Licensing
