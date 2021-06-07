@@ -34,7 +34,7 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 }
 ```
 # Issues
-After upgrading to Mathematica 12.3-0-0 it is not possible to download graphs from Wolfram anymore, as far as I can tell. So parts of **Isospectral.nb** is now broken, in particular the isospectrality testing of all graphs having few vertices.
+No issues at the moment.
 
 # Updates
 Version 2 of the paper is now uploaded and includes a combinatorial way to generate infinitely many isospectral pairs and n-tuples.
