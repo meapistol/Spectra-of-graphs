@@ -33,12 +33,14 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
       primaryClass={math.SP}
 }
 ```
+# Issues
+No issues at the moment.
+
+# Updates
+Version 2 of the paper is now uploaded and includes a combinatorial way to generate infinitely many isospectral pairs and n-tuples.
+
 # Typos in paper
-The abstract says more than 70 isospectral sets, whereas the text says more than 60 isospectral sets. The paper includes 71 isospectral sets so the text should be updated to more than 70.
-
-The Acknowledgement: "graphs with know" -> "graphs with known"
-
-The abstract on arXiv does not show the link to GitHub very nicely. The abstract in the pdf does it correctly though. 
+It is maybe not clear that the graphs in the Appendix must be normalised to the same length in order to be isospectral. 
 
 This Errata will be updated as soon as we discover more problems.
 
