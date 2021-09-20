@@ -37,12 +37,10 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 No issues at the moment.
 
 # Updates
-Version 2 of the paper is now uploaded and includes a combinatorial way to generate infinitely many isospectral pairs and n-tuples.
+Version 3 of the paper is now uploaded and includes a quite general combinatorial way to generate infinitely many isospectral pairs and n-tuples. The method is more general than that described in version 2. 
 
 # Typos in paper
-It is maybe not clear that the graphs in the Appendix must be normalised to the same length in order to be isospectral. 
 
-This Errata will be updated as soon as we discover more problems.
 
 # Licensing
 
