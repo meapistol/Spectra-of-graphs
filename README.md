@@ -1,7 +1,7 @@
 # Spectra-of-graphs
 The **GraphRoots.nb** program computes the spectrum of a graph with a Laplacian on the edges. The graph must have edges that are rationally dependent,
 and in such cases **all** solutions are found explicitly.
-The graph must compact and Neumann boundary conditions are assumed at the vertices.
+The graph must be compact and Neumann boundary conditions are assumed at the vertices.
 The instructions how to run the progam are within the notebook and includes a set of tests.
 
 The main objective of this repository is that people should test **GraphRoots** as much as possible. Many tests have been done but it is still possible
