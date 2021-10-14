@@ -40,7 +40,7 @@ No issues at the moment.
 Version 3 of the paper is now uploaded and includes a quite general combinatorial way to generate infinitely many isospectral pairs and n-tuples. The method is more general than that described in version 2. 
 
 # Typos in paper
-
+I now think that star graphs have no isospectral partners and there are thus infinitely many graphs without isospectral partners. An interval is a star graph.
 
 # Licensing
 
