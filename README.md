@@ -42,7 +42,7 @@ Version 5 of the paper is now uploaded and now includes about ten generating set
 The file Trees.pdf contains all isospectral pairs of trees having at most 13 vertices. There are 51 isospectral pairs. There is one isospectral pair with nine vertices, two isospectral pairs with 10 vertices, five isospectral pairs with 11 vertices and six isospectral pairs with 12 vertices and 37 isospectral trees with 13 vertices.
 
 # Typos in paper
-Figs 12c and d) are not particularly exciting after all.
+None known.
 # Licensing
 
 **GraphRoots.nb** and **Isospectral.nb** are released under MIT license.
