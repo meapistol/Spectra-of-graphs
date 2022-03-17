@@ -37,8 +37,7 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 No issues at the moment.
 
 # Updates
-Version 4 of the paper is now uploaded and includes a quite general combinatorial way to generate infinitely many isospectral pairs and n-tuples. The method is more general than that described in version 2 and includes more generating sets than in version 3. 
-
+Version 5 of the paper is now uploaded and now includes about ten generating sets.
 # Data
 The file Trees.pdf contains all isospectral pairs of trees having at most 13 vertices. There are 51 isospectral pairs. There is one isospectral pair with nine vertices, two isospectral pairs with 10 vertices, five isospectral pairs with 11 vertices and six isospectral pairs with 12 vertices and 37 isospectral trees with 13 vertices.
 
