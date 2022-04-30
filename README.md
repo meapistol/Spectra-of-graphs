@@ -8,7 +8,7 @@ The main objective of this repository is that people should test **GraphRoots** 
 that the program contains errors and such errors must be caught. Please report any errors or suspect behaviour under issues.
 
 The program **Isospectral.nb** has a set of commands to generate graphs that are isospectral but not isomorphic. Included in **Isospectral.nb**
-is a large and growing set of isospectral pairs that are not isomporphic. In order for **Isospectral.nb** to work **GraphRoots.nb** must be run first.
+is a large and growing set of isospectral pairs that are not isomorphic. In order for **Isospectral.nb** to work **GraphRoots.nb** must be run first.
 
 If you find these programs useful please cite this repository as:
 
@@ -34,7 +34,7 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 }
 ```
 # Issues
-No issues at the moment.
+Fig. 12 g) might be missing an edge. I am investigating this.
 
 # Updates
 Version 5 of the paper is now uploaded and now includes about ten generating sets. Isospectral.nb has been updated to correspond to vs5 the paper. GraphRoots.nb is unchanged but supports vs5 of the paper as well.
