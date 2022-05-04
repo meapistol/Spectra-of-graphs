@@ -37,12 +37,14 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 No issues at the moment.
 
 # Updates
-Version 5 of the paper is now uploaded and now includes about ten generating sets. Isospectral.nb has been updated to correspond to vs5 the paper. GraphRoots.nb is unchanged but supports vs5 of the paper as well.
+Version 6 of the paper is now uploaded to arXiv and includes a correction of Fig. 12 and the addition of a figure where attached graphs are attached to two hot vertices, still generating isospectral pairs. Isospectral.nb has been updated to correspond to vs6 the paper. GraphRoots.nb is unchanged but supports vs6 of the paper.
 # Data
 The file Trees.pdf contains all isospectral pairs of trees having at most 13 vertices. There are 51 isospectral pairs. There is one isospectral pair with nine vertices, two isospectral pairs with 10 vertices, five isospectral pairs with 11 vertices and six isospectral pairs with 12 vertices and 37 isospectral trees with 13 vertices.
 
+I will upon reasonable request generate secular determinants for graphs, since not everyone can easily use Mathematica.
+
 # Typos in paper
-Fig. 12 g) might be missing an edge. I am investigating this.
+None known.
 # Licensing
 
 **GraphRoots.nb** and **Isospectral.nb** are released under MIT license.
