@@ -40,7 +40,7 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 No issues at the moment.
 
 # Updates
-Version 6 of the paper is now uploaded to arXiv and includes a correction of Fig. 12 and the addition of a figure where attached graphs are attached to two hot vertices, still generating isospectral pairs. Isospectral.nb has been updated to correspond to vs6 the paper. GraphRoots.nb is unchanged but supports vs6 of the paper.
+Version 7 of the paper is now uploaded to arXiv and includes the classification of isospectral sets with 8 and 9 vertices and discoveries made using these sets. GraphRoots.nb is unchanged but supports vs7 of the paper.
 # Data
 The Data Folder contains figures of isospectral sets.  
 **Trees.pdf** contains all isospectral pairs of trees having at most 13 vertices. There are 51 isospectral pairs. There is one isospectral pair with nine vertices, two isospectral pairs with 10 vertices, five isospectral pairs with 11 vertices and six isospectral pairs with 12 vertices and 37 isospectral trees with 13 vertices.  
