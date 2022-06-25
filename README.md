@@ -39,11 +39,11 @@ No issues at the moment.
 # Updates
 Version 6 of the paper is now uploaded to arXiv and includes a correction of Fig. 12 and the addition of a figure where attached graphs are attached to two hot vertices, still generating isospectral pairs. Isospectral.nb has been updated to correspond to vs6 the paper. GraphRoots.nb is unchanged but supports vs6 of the paper.
 # Data
-The Data Folder contains figures of isospectral sets. 
-**Trees.pdf** contains all isospectral pairs of trees having at most 13 vertices. There are 51 isospectral pairs. There is one isospectral pair with nine vertices, two isospectral pairs with 10 vertices, five isospectral pairs with 11 vertices and six isospectral pairs with 12 vertices and 37 isospectral trees with 13 vertices. 
-**8vertices.pdf** contains all isospectral sets with 8 vertices.
-**9vertices.pdf** contains all isospectral sets with 9 vertices. These figures are split into 4 figures.
-**9vertices.vs2.pdf** contains all isospectral sets with 9 vertices but plotted differently than in **9vertices.pdf**. 
+The Data Folder contains figures of isospectral sets.  
+**Trees.pdf** contains all isospectral pairs of trees having at most 13 vertices. There are 51 isospectral pairs. There is one isospectral pair with nine vertices, two isospectral pairs with 10 vertices, five isospectral pairs with 11 vertices and six isospectral pairs with 12 vertices and 37 isospectral trees with 13 vertices.  
+**8vertices.pdf** contains all isospectral sets with 8 vertices.   
+**9vertices.pdf** contains all isospectral sets with 9 vertices. These figures are split into 4 figures.  
+**9vertices.vs2.pdf** contains all isospectral sets with 9 vertices but plotted differently than in **9vertices.pdf**.    
 If you check the graphs you should check both versions to make sure there are no overlapping edges, which Mathematica often plot.
 
 I will upon reasonable request generate secular determinants for graphs, since not everyone can easily use Mathematica.
