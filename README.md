@@ -55,4 +55,4 @@ I will upon reasonable request generate secular determinants for graphs, since n
 None known.
 # Licensing
 
-**GraphRoots.nb** and **Isospectral.nb** are released under MIT license.
+**GraphRoots.nb**, **Isospectral.nb** and **LargeGraphs.nb** are released under MIT license.
