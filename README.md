@@ -47,8 +47,8 @@ The Data Folder contains figures of isospectral sets.
 **8vertices.pdf** contains all isospectral sets with 8 vertices.   
 **9vertices.pdf** contains all isospectral sets with 9 vertices. These figures are split into 4 figures.  
 **9vertices.vs2.pdf** contains all isospectral sets with 9 vertices but plotted differently than in **9vertices.pdf**.    
-**10vertices.pdf** contains isospectral sets with ten vertices, but not all of them.
 If you check the graphs you should check both versions to make sure there are no overlapping edges, which Mathematica often plot.
+**10vertices.pdf** contains isospectral sets with ten vertices, but not all of them.
 
 I will upon reasonable request generate secular determinants for graphs, since not everyone can easily use Mathematica.
 
