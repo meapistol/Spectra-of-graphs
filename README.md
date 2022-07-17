@@ -52,7 +52,7 @@ If you check the graphs you should check both versions to make sure there are no
 I will upon reasonable request generate secular determinants for graphs, since not everyone can easily use Mathematica.
 
 # Typos in paper
-Figure 20 is erroneously referred to as Fig. 19.
+None known.
 # Licensing
 
 **GraphRoots.nb**, **Isospectral.nb** and **LargeGraphs.nb** are released under MIT license.
