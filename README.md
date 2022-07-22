@@ -13,6 +13,8 @@ is a large and growing set of isospectral pairs that are not isomorphic. In orde
 **LargeGraphs.nb** contains the software to load graphs with 8 and 9 vertices as well as to check for isospectral sets. The notebook also contains these sets.
 Note that you have to download the graphs yourself from the reference given in the manuscript (https://rb.gy/ptazhr).
 
+**GraphGrowth.nb** contains the software to spectrally grow graphs. It is necessary to run GraphRoots first.
+
 If you find these programs useful please cite this repository as:
 
 ```
