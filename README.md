@@ -10,7 +10,7 @@ that the program contains errors and such errors must be caught. Please report a
 The program **Isospectral.nb** has a set of commands to generate graphs that are isospectral but not isomorphic. Included in **Isospectral.nb**
 is a large and growing set of isospectral pairs that are not isomorphic. In order for **Isospectral.nb** to work **GraphRoots.nb** must be run first.
 
-**LargeGraphs.nb** contains the software to load graphs with 8 and 9 vertices as well as to check for isospectral sets. The notebook also contains these sets.
+**LargeGraphs.nb** contains the software to load graphs with 8, 9 and ten vertices as well as to check for isospectral sets. The notebook also contains these sets.
 Note that you have to download the graphs yourself from the reference given in the manuscript (https://rb.gy/ptazhr).
 
 **GraphGrowth.nb** contains the software to spectrally grow graphs. It is necessary to run GraphRoots first.
@@ -49,7 +49,7 @@ The Data Folder contains figures of isospectral sets.
 **8vertices.pdf** contains all isospectral sets with 8 vertices.   
 **9vertices.pdf** contains all isospectral sets with 9 vertices. These figures are split into 4 figures.  
 **9vertices.vs2.pdf** contains all isospectral sets with 9 vertices but plotted differently than in **9vertices.pdf**.    
-If you check the graphs you should check both versions to make sure there are no overlapping edges, which Mathematica often plot.
+If you check the graphs you should check both versions to make sure there are no overlapping edges, which Mathematica often plots.\
 **10vertices.pdf** contains isospectral sets with ten vertices, but not all of them.
 
 I will upon reasonable request generate secular determinants for graphs, since not everyone can easily use Mathematica.
