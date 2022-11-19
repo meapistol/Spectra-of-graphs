@@ -42,7 +42,7 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 No issues at the moment.
 
 # Updates
-- Version 8 of the paper is now uploaded to arXiv which is more strict, using Titshmarch-Weil m-functions in several cases. A section concerning long chains of graphs and their isospectrality has been added. **GraphRoots.nb** has been corrected where in some cases the Length was not handled correctly. It still needs checking if the graph contains symbolic lengths. 
+- Version 9 of the paper is now uploaded to arXiv which is more strict, using Titshmarch-Weil m-functions in several cases. A section concerning long chains of graphs and their isospectrality has been added. **GraphRoots.nb** has been corrected where in some cases the Length was not handled correctly. It still needs checking if the graph contains symbolic lengths. 
 - Version 8 of the paper is now uploaded to arXiv and includes classification of some isospectral sets having ten vertices and discoveries made using these sets. **GraphRoots.nb** is updated to supports vs7 of the paper. In particular it now includes two different notebooks to compute secular determinants. **LargeGraphs.nb** is updated to include a set of isospectral graphs with ten vertices.
 # Data
 The Data Folder contains figures of isospectral sets.  
