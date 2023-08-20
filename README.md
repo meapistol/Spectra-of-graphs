@@ -42,6 +42,7 @@ and/or the associated paper: *Generating isospectral but not isomorphic quantum 
 No issues at the moment.
 
 # Updates
+- Version 11 of the paper is now uploaded to arXiv. This version treats delta-type boundary conditions and their m-functions. **GraphRoots.nb** and **Isospectral.nb** have been updated with a far better treatment of delta-type boundary conditions.
 - Version 11 of the paper is now uploaded to arXiv. This version has a far better treatment of Titchmarsh-Weil m-functions, including an algorithm to compute them. **Isospectral.nb** is updated to vs. 11 of the paper.
 - Version 10 of the paper is now uploaded to arXiv. A section concerning the generation of graphs with several hot vertices has been added. Three new figures containing interesting isospectral graphs has been added, involving loops. 
 - Version 9 of the paper is now uploaded to arXiv which is more strict, using Titchmarsh-Weil m-functions in several cases. A section concerning long chains of graphs and their isospectrality has been added. **GraphRoots.nb** has been corrected where in some cases the Length was not handled correctly. It still needs checking if the graph contains symbolic lengths. 
