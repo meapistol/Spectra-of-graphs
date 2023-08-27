@@ -59,7 +59,8 @@ If you check the graphs you should check both versions to make sure there are no
 I will upon reasonable request generate secular determinants for graphs, since not everyone can easily use Mathematica.
 
 # Typos in paper
-None known.
+One sentence is missing  and should be: <img width="575" alt="image" src="https://github.com/meapistol/Spectra-of-graphs/assets/10008813/a66f9aaa-bc94-4908-bd8e-b677c08337ee">
+This is on page 24 and I guess most equation references are off by one.
 # Licensing
 
 **GraphRoots.nb**, **Isospectral.nb** and **LargeGraphs.nb** are released under MIT license.
